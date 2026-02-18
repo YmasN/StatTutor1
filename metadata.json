@@ -1,0 +1,5 @@
+{
+  "name": "StatTutor AI",
+  "description": "A world-class senior statistics tutor based on the OpenStax Introductory Statistics textbook, featuring step-by-step solutions and LaTeX math rendering.",
+  "requestFramePermissions": []
+}
